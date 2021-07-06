@@ -2,4 +2,4 @@
 
 @Easy Tutorials Youtube Channel
 
-Live Site: https://rabby-hossen.github.io/Animated-Website/
+Live Site: https://fazleybin-mahbub.github.io/Animated-Website/
